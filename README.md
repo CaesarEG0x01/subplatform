@@ -1,1 +1,1 @@
-# subplatform
+A website that contains some of websites or catagories .. and each websites contains some of the posts. Anyone can create any website, delefe it, and add posts within these websites. And if someone subscribes to one of these websites, he will get an notification to his e-mail when a post is created within that website and contains the content of the new post.
